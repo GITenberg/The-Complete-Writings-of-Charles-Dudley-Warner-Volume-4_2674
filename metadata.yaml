@@ -1,5 +1,5 @@
 _repo: The-Complete-Writings-of-Charles-Dudley-Warner-Volume-4_2674
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -34,6 +34,7 @@ subjects:
 - !lcc 'PS'
 - !lcsh 'Mexico -- Description and travel'
 - !lcsh 'Warner, Charles Dudley, 1829-1900 -- Travel -- Mexico'
+- GITenberg
 tableOfContents: Being a boy — On horseback
 title: The Complete Writings of Charles Dudley Warner — Volume 4
 url: http://www.gutenberg.org/ebooks/2674
